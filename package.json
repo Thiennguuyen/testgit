@@ -1,0 +1,33 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiennguuyen/nodejs_first.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "nodejs",
+    "node",
+    "begin"
+  ],
+  "author": "Thiennguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiennguuyen/nodejs_first/issues"
+  },
+  "homepage": "https://github.com/Thiennguuyen/nodejs_first#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
